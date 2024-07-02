@@ -1,166 +1,596 @@
 {
 	"0": [
-		"mp_f_gunrunning_01_3_17",
-		"mp_f_gunrunning_01_3_18",
-		"mp_f_gunrunning_01_3_2",
-		"mp_f_gunrunning_01_3_33",
-		"mp_f_importexport_01_3_0",
-		"mp_f_importexport_01_3_1",
-		"mp_f_importexport_01_3_2",
-		"mp_f_importexport_01_3_3",
-		"mp_f_importexport_01_3_4",
-		"mp_f_importexport_01_3_5",
-		"mp_f_importexport_01_3_6",
-		"mp_f_importexport_01_3_7",
-		"mp_f_january2016_3_0",
-		"mp_f_sum_3_17",
-		"mp_f_sum_3_2"
+		{
+			"dlc": "mp_m_0",
+			"drawable": 0
+		},
+		{
+			"dlcName": "mp_f_gunrunning_01",
+			"drawable": 17
+		},
+		{
+			"dlcName": "mp_f_gunrunning_01",
+			"drawable": 18
+		},
+		{
+			"dlcName": "mp_f_gunrunning_01",
+			"drawable": 2
+		},
+		{
+			"dlcName": "mp_f_gunrunning_01",
+			"drawable": 33
+		},
+		{
+			"dlcName": "mp_f_importexport_01",
+			"drawable": 0
+		},
+		{
+			"dlcName": "mp_f_importexport_01",
+			"drawable": 1
+		},
+		{
+			"dlcName": "mp_f_importexport_01",
+			"drawable": 2
+		},
+		{
+			"dlcName": "mp_f_importexport_01",
+			"drawable": 3
+		},
+		{
+			"dlcName": "mp_f_importexport_01",
+			"drawable": 4
+		},
+		{
+			"dlcName": "mp_f_importexport_01",
+			"drawable": 5
+		},
+		{
+			"dlcName": "mp_f_importexport_01",
+			"drawable": 6
+		},
+		{
+			"dlcName": "mp_f_importexport_01",
+			"drawable": 7
+		},
+		{
+			"dlcName": "mp_f_january2016",
+			"drawable": 0
+		},
+		{
+			"dlcName": "mp_f_sum",
+			"drawable": 17
+		},
+		{
+			"dlcName": "mp_f_sum",
+			"drawable": 2
+		}
 	],
 	"1": [
-		"mp_f_gunrunning_01_3_19",
-		"mp_f_gunrunning_01_3_3",
-		"mp_f_january2016_3_1",
-		"mp_f_sum_3_3"
+		{
+			"dlc": "mp_m_0",
+			"drawable": 1
+		},
+		{
+			"dlcName": "mp_f_gunrunning_01",
+			"drawable": 19
+		},
+		{
+			"dlcName": "mp_f_gunrunning_01",
+			"drawable": 3
+		},
+		{
+			"dlcName": "mp_f_january2016",
+			"drawable": 1
+		},
+		{
+			"dlcName": "mp_f_sum",
+			"drawable": 3
+		}
 	],
 	"2": [
-		"mp_f_gunrunning_01_3_20",
-		"mp_f_gunrunning_01_3_4",
-		"mp_f_january2016_3_2",
-		"mp_f_sum_3_4"
+		{
+			"dlc": "mp_m_0",
+			"drawable": 2
+		},
+		{
+			"dlcName": "mp_f_gunrunning_01",
+			"drawable": 20
+		},
+		{
+			"dlcName": "mp_f_gunrunning_01",
+			"drawable": 4
+		},
+		{
+			"dlcName": "mp_f_january2016",
+			"drawable": 2
+		},
+		{
+			"dlcName": "mp_f_sum",
+			"drawable": 4
+		}
 	],
 	"3": [
-		"Female_freemode_mpLTS_3_0",
-		"Female_freemode_mpLTS_3_1",
-		"Female_freemode_Pilot_3_0",
-		"mp_f_2023_02_3_0",
-		"mp_f_2023_02_3_2",
-		"mp_f_christmas2018_3_0",
-		"mp_f_christmas2018_3_1",
-		"mp_f_christmas2018_3_2",
-		"mp_f_christmas2018_3_3",
-		"mp_f_christmas3_3_0",
-		"mp_f_gunrunning_01_3_21",
-		"mp_f_gunrunning_01_3_5",
-		"mp_f_gunrunning_01_3_6",
-		"mp_f_htb_01_3_0",
-		"mp_f_january2016_3_3",
-		"mp_f_stunt_01_3_0",
-		"mp_f_stunt_01_3_1",
-		"mp_f_sum2_3_0",
-		"mp_f_sum_3_0",
-		"mp_f_sum_3_5",
-		"mp_f_vinewood_3_0",
-		"mp_f_xmas_03_3_0"
+		{
+			"dlc": "mp_m_0",
+			"drawable": 3
+		},
+		{
+			"dlcName": "Female_freemode_mpLTS",
+			"drawable": 0
+		},
+		{
+			"dlcName": "Female_freemode_mpLTS",
+			"drawable": 1
+		},
+		{
+			"dlcName": "Female_freemode_Pilot",
+			"drawable": 0
+		},
+		{
+			"dlcName": "mp_f_2023_02",
+			"drawable": 0
+		},
+		{
+			"dlcName": "mp_f_2023_02",
+			"drawable": 2
+		},
+		{
+			"dlcName": "mp_f_christmas3",
+			"drawable": 0
+		},
+		{
+			"dlcName": "mp_f_gunrunning_01",
+			"drawable": 21
+		},
+		{
+			"dlcName": "mp_f_gunrunning_01",
+			"drawable": 5
+		},
+		{
+			"dlcName": "mp_f_gunrunning_01",
+			"drawable": 6
+		},
+		{
+			"dlcName": "mp_f_january2016",
+			"drawable": 3
+		},
+		{
+			"dlcName": "mp_f_stunt_01",
+			"drawable": 0
+		},
+		{
+			"dlcName": "mp_f_stunt_01",
+			"drawable": 1
+		},
+		{
+			"dlcName": "mp_f_sum",
+			"drawable": 5
+		}
 	],
 	"4": [
-		"mp_f_gunrunning_01_3_22",
-		"mp_f_january2016_3_4",
-		"mp_f_sum_3_6"
+		{
+			"dlc": "mp_m_0",
+			"drawable": 4
+		},
+		{
+			"dlcName": "mp_f_gunrunning_01",
+			"drawable": 22
+		},
+		{
+			"dlcName": "mp_f_january2016",
+			"drawable": 4
+		},
+		{
+			"dlcName": "mp_f_sum",
+			"drawable": 6
+		}
 	],
 	"5": [
-		"mp_f_gunrunning_01_3_23",
-		"mp_f_gunrunning_01_3_7",
-		"mp_f_heist4_3_0",
-		"mp_f_heist4_3_1",
-		"mp_f_heist4_3_10",
-		"mp_f_heist4_3_2",
-		"mp_f_heist4_3_3",
-		"mp_f_heist4_3_4",
-		"mp_f_heist4_3_5",
-		"mp_f_heist4_3_6",
-		"mp_f_heist4_3_7",
-		"mp_f_heist4_3_8",
-		"mp_f_heist4_3_9",
-		"mp_f_january2016_3_5",
-		"mp_f_sum_3_7"
+		{
+			"dlc": "mp_m_0",
+			"drawable": 5
+		},
+		{
+			"dlcName": "mp_f_gunrunning_01",
+			"drawable": 23
+		},
+		{
+			"dlcName": "mp_f_gunrunning_01",
+			"drawable": 7
+		},
+		{
+			"dlcName": "mp_f_heist4",
+			"drawable": 0
+		},
+		{
+			"dlcName": "mp_f_heist4",
+			"drawable": 1
+		},
+		{
+			"dlcName": "mp_f_heist4",
+			"drawable": 10
+		},
+		{
+			"dlcName": "mp_f_heist4",
+			"drawable": 2
+		},
+		{
+			"dlcName": "mp_f_heist4",
+			"drawable": 3
+		},
+		{
+			"dlcName": "mp_f_heist4",
+			"drawable": 4
+		},
+		{
+			"dlcName": "mp_f_heist4",
+			"drawable": 5
+		},
+		{
+			"dlcName": "mp_f_heist4",
+			"drawable": 6
+		},
+		{
+			"dlcName": "mp_f_heist4",
+			"drawable": 7
+		},
+		{
+			"dlcName": "mp_f_heist4",
+			"drawable": 8
+		},
+		{
+			"dlcName": "mp_f_heist4",
+			"drawable": 9
+		},
+		{
+			"dlcName": "mp_f_january2016",
+			"drawable": 5
+		},
+		{
+			"dlcName": "mp_f_sum",
+			"drawable": 7
+		}
 	],
 	"6": [
-		"mp_f_gunrunning_01_3_24",
-		"mp_f_gunrunning_01_3_8",
-		"mp_f_january2016_3_6",
-		"mp_f_sum_3_8"
+		{
+			"dlc": "mp_m_0",
+			"drawable": 6
+		},
+		{
+			"dlcName": "mp_f_gunrunning_01",
+			"drawable": 24
+		},
+		{
+			"dlcName": "mp_f_gunrunning_01",
+			"drawable": 8
+		},
+		{
+			"dlcName": "mp_f_january2016",
+			"drawable": 6
+		},
+		{
+			"dlcName": "mp_f_sum",
+			"drawable": 8
+		}
 	],
 	"7": [
-		"mp_f_gunrunning_01_3_25",
-		"mp_f_gunrunning_01_3_9",
-		"mp_f_january2016_3_7",
-		"mp_f_sum_3_9"
+		{
+			"dlc": "mp_m_0",
+			"drawable": 7
+		},
+		{
+			"dlcName": "mp_f_gunrunning_01",
+			"drawable": 25
+		},
+		{
+			"dlcName": "mp_f_gunrunning_01",
+			"drawable": 9
+		},
+		{
+			"dlcName": "mp_f_january2016",
+			"drawable": 7
+		},
+		{
+			"dlcName": "mp_f_sum",
+			"drawable": 9
+		}
 	],
 	"9": [
-		"mp_f_2023_02_3_1",
-		"mp_f_gunrunning_01_3_10",
-		"mp_f_gunrunning_01_3_26",
-		"mp_f_january2016_3_8",
-		"mp_f_sum_3_10"
+		{
+			"dlc": "mp_m_0",
+			"drawable": 9
+		},
+		{
+			"dlcName": "mp_f_2023_02",
+			"drawable": 1
+		},
+		{
+			"dlcName": "mp_f_gunrunning_01",
+			"drawable": 10
+		},
+		{
+			"dlcName": "mp_f_gunrunning_01",
+			"drawable": 26
+		},
+		{
+			"dlcName": "mp_f_january2016",
+			"drawable": 8
+		},
+		{
+			"dlcName": "mp_f_sum",
+			"drawable": 10
+		}
 	],
 	"11": [
-		"Female_freemode_valentines_3_0",
-		"mp_f_bikerdlc_01_3_1",
-		"mp_f_bikerdlc_01_3_10",
-		"mp_f_bikerdlc_01_3_11",
-		"mp_f_bikerdlc_01_3_12",
-		"mp_f_bikerdlc_01_3_13",
-		"mp_f_bikerdlc_01_3_14",
-		"mp_f_bikerdlc_01_3_15",
-		"mp_f_bikerdlc_01_3_16",
-		"mp_f_gunrunning_01_3_11",
-		"mp_f_gunrunning_01_3_15",
-		"mp_f_gunrunning_01_3_27",
-		"mp_f_gunrunning_01_3_31",
-		"mp_f_gunrunning_01_3_34",
-		"mp_f_gunrunning_01_3_35",
-		"mp_f_importexport_01_3_10",
-		"mp_f_importexport_01_3_11",
-		"mp_f_importexport_01_3_12",
-		"mp_f_importexport_01_3_13",
-		"mp_f_importexport_01_3_14",
-		"mp_f_importexport_01_3_15",
-		"mp_f_importexport_01_3_8",
-		"mp_f_importexport_01_3_9",
-		"mp_f_january2016_3_9",
-		"mp_f_sum_3_11",
-		"mp_f_sum_3_15",
-		"mp_f_sum_3_18"
+		{
+			"dlc": "mp_m_0",
+			"drawable": 11
+		},
+		{
+			"dlcName": "Female_freemode_valentines",
+			"drawable": 0
+		},
+		{
+			"dlcName": "mp_f_bikerdlc_01",
+			"drawable": 1
+		},
+		{
+			"dlcName": "mp_f_bikerdlc_01",
+			"drawable": 10
+		},
+		{
+			"dlcName": "mp_f_bikerdlc_01",
+			"drawable": 11
+		},
+		{
+			"dlcName": "mp_f_bikerdlc_01",
+			"drawable": 12
+		},
+		{
+			"dlcName": "mp_f_bikerdlc_01",
+			"drawable": 13
+		},
+		{
+			"dlcName": "mp_f_bikerdlc_01",
+			"drawable": 14
+		},
+		{
+			"dlcName": "mp_f_bikerdlc_01",
+			"drawable": 15
+		},
+		{
+			"dlcName": "mp_f_bikerdlc_01",
+			"drawable": 16
+		},
+		{
+			"dlcName": "mp_f_gunrunning_01",
+			"drawable": 11
+		},
+		{
+			"dlcName": "mp_f_gunrunning_01",
+			"drawable": 15
+		},
+		{
+			"dlcName": "mp_f_gunrunning_01",
+			"drawable": 27
+		},
+		{
+			"dlcName": "mp_f_gunrunning_01",
+			"drawable": 31
+		},
+		{
+			"dlcName": "mp_f_gunrunning_01",
+			"drawable": 34
+		},
+		{
+			"dlcName": "mp_f_gunrunning_01",
+			"drawable": 35
+		},
+		{
+			"dlcName": "mp_f_importexport_01",
+			"drawable": 10
+		},
+		{
+			"dlcName": "mp_f_importexport_01",
+			"drawable": 11
+		},
+		{
+			"dlcName": "mp_f_importexport_01",
+			"drawable": 12
+		},
+		{
+			"dlcName": "mp_f_importexport_01",
+			"drawable": 13
+		},
+		{
+			"dlcName": "mp_f_importexport_01",
+			"drawable": 14
+		},
+		{
+			"dlcName": "mp_f_importexport_01",
+			"drawable": 15
+		},
+		{
+			"dlcName": "mp_f_importexport_01",
+			"drawable": 8
+		},
+		{
+			"dlcName": "mp_f_importexport_01",
+			"drawable": 9
+		},
+		{
+			"dlcName": "mp_f_january2016",
+			"drawable": 9
+		},
+		{
+			"dlcName": "mp_f_sum",
+			"drawable": 11
+		},
+		{
+			"dlcName": "mp_f_sum",
+			"drawable": 15
+		},
+		{
+			"dlcName": "mp_f_sum",
+			"drawable": 18
+		}
 	],
 	"12": [
-		"mp_f_bikerdlc_01_3_17",
-		"mp_f_bikerdlc_01_3_18",
-		"mp_f_bikerdlc_01_3_19",
-		"mp_f_bikerdlc_01_3_2",
-		"mp_f_bikerdlc_01_3_20",
-		"mp_f_bikerdlc_01_3_21",
-		"mp_f_bikerdlc_01_3_22",
-		"mp_f_bikerdlc_01_3_23",
-		"mp_f_gunrunning_01_3_12",
-		"mp_f_gunrunning_01_3_16",
-		"mp_f_gunrunning_01_3_28",
-		"mp_f_gunrunning_01_3_32",
-		"mp_f_january2016_3_10",
-		"mp_f_sum_3_12",
-		"mp_f_sum_3_16"
+		{
+			"dlc": "mp_m_0",
+			"drawable": 12
+		},
+		{
+			"dlcName": "mp_f_bikerdlc_01",
+			"drawable": 17
+		},
+		{
+			"dlcName": "mp_f_bikerdlc_01",
+			"drawable": 18
+		},
+		{
+			"dlcName": "mp_f_bikerdlc_01",
+			"drawable": 19
+		},
+		{
+			"dlcName": "mp_f_bikerdlc_01",
+			"drawable": 2
+		},
+		{
+			"dlcName": "mp_f_bikerdlc_01",
+			"drawable": 20
+		},
+		{
+			"dlcName": "mp_f_bikerdlc_01",
+			"drawable": 21
+		},
+		{
+			"dlcName": "mp_f_bikerdlc_01",
+			"drawable": 22
+		},
+		{
+			"dlcName": "mp_f_bikerdlc_01",
+			"drawable": 23
+		},
+		{
+			"dlcName": "mp_f_gunrunning_01",
+			"drawable": 12
+		},
+		{
+			"dlcName": "mp_f_gunrunning_01",
+			"drawable": 16
+		},
+		{
+			"dlcName": "mp_f_gunrunning_01",
+			"drawable": 28
+		},
+		{
+			"dlcName": "mp_f_gunrunning_01",
+			"drawable": 32
+		},
+		{
+			"dlcName": "mp_f_january2016",
+			"drawable": 10
+		},
+		{
+			"dlcName": "mp_f_sum",
+			"drawable": 12
+		},
+		{
+			"dlcName": "mp_f_sum",
+			"drawable": 16
+		}
 	],
 	"14": [
-		"mp_f_gunrunning_01_3_13",
-		"mp_f_gunrunning_01_3_29",
-		"mp_f_january2016_3_11",
-		"mp_f_security_3_0",
-		"mp_f_sum_3_13"
+		{
+			"dlc": "mp_m_0",
+			"drawable": 14
+		},
+		{
+			"dlcName": "mp_f_gunrunning_01",
+			"drawable": 13
+		},
+		{
+			"dlcName": "mp_f_gunrunning_01",
+			"drawable": 29
+		},
+		{
+			"dlcName": "mp_f_january2016",
+			"drawable": 11
+		},
+		{
+			"dlcName": "mp_f_security",
+			"drawable": 0
+		},
+		{
+			"dlcName": "mp_f_sum",
+			"drawable": 13
+		}
 	],
 	"15": [
-		"mp_f_bikerdlc_01_3_0",
-		"mp_f_bikerdlc_01_3_3",
-		"mp_f_bikerdlc_01_3_4",
-		"mp_f_bikerdlc_01_3_5",
-		"mp_f_bikerdlc_01_3_6",
-		"mp_f_bikerdlc_01_3_7",
-		"mp_f_bikerdlc_01_3_8",
-		"mp_f_bikerdlc_01_3_9",
-		"mp_f_gunrunning_01_3_0",
-		"mp_f_gunrunning_01_3_1",
-		"mp_f_gunrunning_01_3_14",
-		"mp_f_gunrunning_01_3_30",
-		"mp_f_january2016_3_12",
-		"mp_f_sum_3_1",
-		"mp_f_sum_3_14"
+		{
+			"dlc": "mp_m_0",
+			"drawable": 15
+		},
+		{
+			"dlcName": "mp_f_bikerdlc_01",
+			"drawable": 0
+		},
+		{
+			"dlcName": "mp_f_bikerdlc_01",
+			"drawable": 3
+		},
+		{
+			"dlcName": "mp_f_bikerdlc_01",
+			"drawable": 4
+		},
+		{
+			"dlcName": "mp_f_bikerdlc_01",
+			"drawable": 5
+		},
+		{
+			"dlcName": "mp_f_bikerdlc_01",
+			"drawable": 6
+		},
+		{
+			"dlcName": "mp_f_bikerdlc_01",
+			"drawable": 7
+		},
+		{
+			"dlcName": "mp_f_bikerdlc_01",
+			"drawable": 8
+		},
+		{
+			"dlcName": "mp_f_bikerdlc_01",
+			"drawable": 9
+		},
+		{
+			"dlcName": "mp_f_gunrunning_01",
+			"drawable": 0
+		},
+		{
+			"dlcName": "mp_f_gunrunning_01",
+			"drawable": 1
+		},
+		{
+			"dlcName": "mp_f_gunrunning_01",
+			"drawable": 14
+		},
+		{
+			"dlcName": "mp_f_gunrunning_01",
+			"drawable": 30
+		},
+		{
+			"dlcName": "mp_f_january2016",
+			"drawable": 12
+		},
+		{
+			"dlcName": "mp_f_sum",
+			"drawable": 1
+		},
+		{
+			"dlcName": "mp_f_sum",
+			"drawable": 14
+		}
 	]
 }

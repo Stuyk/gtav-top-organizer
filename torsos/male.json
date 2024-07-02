@@ -1,220 +1,808 @@
 {
 	"0": [
-		"Male_Heist_3_0",
-		"Male_Heist_3_11",
-		"Male_Heist_3_22",
-		"Male_Heist_3_33",
-		"Male_Heist_3_44",
-		"Male_Heist_3_55",
-		"Male_Heist_3_66",
-		"mp_m_christmas2018_3_0",
-		"mp_m_christmas3_3_0",
-		"mp_m_christmas3_3_1",
-		"mp_m_christmas3_3_10",
-		"mp_m_christmas3_3_2",
-		"mp_m_christmas3_3_3",
-		"mp_m_christmas3_3_4",
-		"mp_m_christmas3_3_5",
-		"mp_m_christmas3_3_6",
-		"mp_m_christmas3_3_7",
-		"mp_m_christmas3_3_8",
-		"mp_m_christmas3_3_9",
-		"mp_m_gunrunning_01_3_15",
-		"mp_m_gunrunning_01_3_2",
-		"mp_m_january2016_3_0",
-		"mp_m_sum_3_0",
-		"mp_m_sum_3_2"
+		{
+			"dlc": "mp_m_0",
+			"drawable": 0
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 0
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 11
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 22
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 33
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 44
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 55
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 66
+		},
+		{
+			"dlcName": "mp_m_christmas3",
+			"drawable": 0
+		},
+		{
+			"dlcName": "mp_m_christmas3",
+			"drawable": 1
+		},
+		{
+			"dlcName": "mp_m_christmas3",
+			"drawable": 10
+		},
+		{
+			"dlcName": "mp_m_christmas3",
+			"drawable": 2
+		},
+		{
+			"dlcName": "mp_m_christmas3",
+			"drawable": 3
+		},
+		{
+			"dlcName": "mp_m_christmas3",
+			"drawable": 4
+		},
+		{
+			"dlcName": "mp_m_christmas3",
+			"drawable": 5
+		},
+		{
+			"dlcName": "mp_m_christmas3",
+			"drawable": 6
+		},
+		{
+			"dlcName": "mp_m_christmas3",
+			"drawable": 7
+		},
+		{
+			"dlcName": "mp_m_christmas3",
+			"drawable": 8
+		},
+		{
+			"dlcName": "mp_m_christmas3",
+			"drawable": 9
+		},
+		{
+			"dlcName": "mp_m_gunrunning_01",
+			"drawable": 15
+		},
+		{
+			"dlcName": "mp_m_gunrunning_01",
+			"drawable": 2
+		},
+		{
+			"dlcName": "mp_m_january2016",
+			"drawable": 0
+		},
+		{
+			"dlcName": "mp_m_sum",
+			"drawable": 2
+		}
 	],
 	"1": [
-		"Male_Heist_3_1",
-		"Male_Heist_3_12",
-		"Male_Heist_3_23",
-		"Male_Heist_3_34",
-		"Male_Heist_3_35",
-		"Male_Heist_3_45",
-		"Male_Heist_3_56",
-		"Male_Heist_3_67",
-		"mp_m_gunrunning_01_3_16",
-		"mp_m_gunrunning_01_3_3",
-		"mp_m_january2016_3_1",
-		"mp_m_sum_3_3"
+		{
+			"dlc": "mp_m_0",
+			"drawable": 1
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 1
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 12
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 23
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 34
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 35
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 45
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 56
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 67
+		},
+		{
+			"dlcName": "mp_m_gunrunning_01",
+			"drawable": 16
+		},
+		{
+			"dlcName": "mp_m_gunrunning_01",
+			"drawable": 3
+		},
+		{
+			"dlcName": "mp_m_january2016",
+			"drawable": 1
+		},
+		{
+			"dlcName": "mp_m_sum",
+			"drawable": 3
+		}
 	],
 	"2": [
-		"Male_Heist_3_13",
-		"Male_Heist_3_2",
-		"Male_Heist_3_24",
-		"Male_Heist_3_46",
-		"Male_Heist_3_57",
-		"Male_Heist_3_68",
-		"mp_m_bikerdlc_01_3_1",
-		"mp_m_bikerdlc_01_3_10",
-		"mp_m_bikerdlc_01_3_11",
-		"mp_m_bikerdlc_01_3_12",
-		"mp_m_bikerdlc_01_3_13",
-		"mp_m_bikerdlc_01_3_14",
-		"mp_m_bikerdlc_01_3_15",
-		"mp_m_bikerdlc_01_3_16",
-		"mp_m_gunrunning_01_3_13",
-		"mp_m_gunrunning_01_3_17",
-		"mp_m_gunrunning_01_3_26",
-		"mp_m_gunrunning_01_3_4",
-		"mp_m_january2016_3_2",
-		"mp_m_sum_3_13",
-		"mp_m_sum_3_4"
+		{
+			"dlc": "mp_m_0",
+			"drawable": 2
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 13
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 2
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 24
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 46
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 57
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 68
+		},
+		{
+			"dlcName": "mp_m_bikerdlc_01",
+			"drawable": 1
+		},
+		{
+			"dlcName": "mp_m_bikerdlc_01",
+			"drawable": 10
+		},
+		{
+			"dlcName": "mp_m_bikerdlc_01",
+			"drawable": 11
+		},
+		{
+			"dlcName": "mp_m_bikerdlc_01",
+			"drawable": 12
+		},
+		{
+			"dlcName": "mp_m_bikerdlc_01",
+			"drawable": 13
+		},
+		{
+			"dlcName": "mp_m_bikerdlc_01",
+			"drawable": 14
+		},
+		{
+			"dlcName": "mp_m_bikerdlc_01",
+			"drawable": 15
+		},
+		{
+			"dlcName": "mp_m_bikerdlc_01",
+			"drawable": 16
+		},
+		{
+			"dlcName": "mp_m_gunrunning_01",
+			"drawable": 13
+		},
+		{
+			"dlcName": "mp_m_gunrunning_01",
+			"drawable": 17
+		},
+		{
+			"dlcName": "mp_m_gunrunning_01",
+			"drawable": 26
+		},
+		{
+			"dlcName": "mp_m_gunrunning_01",
+			"drawable": 4
+		},
+		{
+			"dlcName": "mp_m_january2016",
+			"drawable": 2
+		},
+		{
+			"dlcName": "mp_m_sum",
+			"drawable": 13
+		},
+		{
+			"dlcName": "mp_m_sum",
+			"drawable": 4
+		}
 	],
 	"4": [
-		"Male_freemode_mpLTS_3_0",
-		"Male_freemode_mpLTS_3_1",
-		"Male_freemode_Pilot_3_0",
-		"Male_Heist_3_14",
-		"Male_Heist_3_25",
-		"Male_Heist_3_3",
-		"Male_Heist_3_36",
-		"Male_Heist_3_47",
-		"Male_Heist_3_58",
-		"Male_Heist_3_69",
-		"Male_Heist_3_77",
-		"mp_m_2023_02_3_0",
-		"mp_m_2023_02_3_2",
-		"mp_m_christmas2018_3_1",
-		"mp_m_christmas2018_3_2",
-		"mp_m_christmas2018_3_3",
-		"mp_m_christmas3_3_11",
-		"mp_m_gunrunning_01_3_18",
-		"mp_m_gunrunning_01_3_21",
-		"mp_m_gunrunning_01_3_5",
-		"mp_m_gunrunning_01_3_6",
-		"mp_m_gunrunning_01_3_8",
-		"mp_m_htb_01_3_0",
-		"mp_m_january2016_3_3",
-		"mp_m_stunt_01_3_0",
-		"mp_m_stunt_01_3_1",
-		"mp_m_sum2_3_0",
-		"mp_m_sum_3_5",
-		"mp_m_tuner_3_0",
-		"mp_m_vinewood_3_0",
-		"mp_m_xmas_03_3_0"
+		{
+			"dlc": "mp_m_0",
+			"drawable": 4
+		},
+		{
+			"dlcName": "Male_freemode_mpLTS",
+			"drawable": 0
+		},
+		{
+			"dlcName": "Male_freemode_mpLTS",
+			"drawable": 1
+		},
+		{
+			"dlcName": "Male_freemode_Pilot",
+			"drawable": 0
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 14
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 25
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 3
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 36
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 47
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 58
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 69
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 77
+		},
+		{
+			"dlcName": "mp_m_christmas3",
+			"drawable": 11
+		},
+		{
+			"dlcName": "mp_m_gunrunning_01",
+			"drawable": 18
+		},
+		{
+			"dlcName": "mp_m_gunrunning_01",
+			"drawable": 21
+		},
+		{
+			"dlcName": "mp_m_gunrunning_01",
+			"drawable": 5
+		},
+		{
+			"dlcName": "mp_m_gunrunning_01",
+			"drawable": 6
+		},
+		{
+			"dlcName": "mp_m_gunrunning_01",
+			"drawable": 8
+		},
+		{
+			"dlcName": "mp_m_january2016",
+			"drawable": 3
+		},
+		{
+			"dlcName": "mp_m_stunt_01",
+			"drawable": 0
+		},
+		{
+			"dlcName": "mp_m_stunt_01",
+			"drawable": 1
+		},
+		{
+			"dlcName": "mp_m_sum",
+			"drawable": 5
+		},
+		{
+			"dlcName": "mp_m_tuner",
+			"drawable": 0
+		}
 	],
 	"5": [
-		"Male_Heist_3_15",
-		"Male_Heist_3_26",
-		"Male_Heist_3_37",
-		"Male_Heist_3_4",
-		"Male_Heist_3_48",
-		"Male_Heist_3_59",
-		"Male_Heist_3_70",
-		"mp_m_bikerdlc_01_3_17",
-		"mp_m_bikerdlc_01_3_18",
-		"mp_m_bikerdlc_01_3_19",
-		"mp_m_bikerdlc_01_3_2",
-		"mp_m_bikerdlc_01_3_20",
-		"mp_m_bikerdlc_01_3_21",
-		"mp_m_bikerdlc_01_3_22",
-		"mp_m_bikerdlc_01_3_23",
-		"mp_m_gunrunning_01_3_14",
-		"mp_m_gunrunning_01_3_19",
-		"mp_m_gunrunning_01_3_27",
-		"mp_m_january2016_3_4",
-		"mp_m_sum_3_14",
-		"mp_m_sum_3_6"
+		{
+			"dlc": "mp_m_0",
+			"drawable": 5
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 15
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 26
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 37
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 4
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 48
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 59
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 70
+		},
+		{
+			"dlcName": "mp_m_bikerdlc_01",
+			"drawable": 17
+		},
+		{
+			"dlcName": "mp_m_bikerdlc_01",
+			"drawable": 18
+		},
+		{
+			"dlcName": "mp_m_bikerdlc_01",
+			"drawable": 19
+		},
+		{
+			"dlcName": "mp_m_bikerdlc_01",
+			"drawable": 2
+		},
+		{
+			"dlcName": "mp_m_bikerdlc_01",
+			"drawable": 20
+		},
+		{
+			"dlcName": "mp_m_bikerdlc_01",
+			"drawable": 21
+		},
+		{
+			"dlcName": "mp_m_bikerdlc_01",
+			"drawable": 22
+		},
+		{
+			"dlcName": "mp_m_bikerdlc_01",
+			"drawable": 23
+		},
+		{
+			"dlcName": "mp_m_gunrunning_01",
+			"drawable": 14
+		},
+		{
+			"dlcName": "mp_m_gunrunning_01",
+			"drawable": 19
+		},
+		{
+			"dlcName": "mp_m_gunrunning_01",
+			"drawable": 27
+		},
+		{
+			"dlcName": "mp_m_january2016",
+			"drawable": 4
+		},
+		{
+			"dlcName": "mp_m_sum",
+			"drawable": 14
+		},
+		{
+			"dlcName": "mp_m_sum",
+			"drawable": 6
+		}
 	],
 	"6": [
-		"Male_Heist_3_16",
-		"Male_Heist_3_27",
-		"Male_Heist_3_38",
-		"Male_Heist_3_49",
-		"Male_Heist_3_5",
-		"Male_Heist_3_60",
-		"Male_Heist_3_71",
-		"mp_m_2023_02_3_1",
-		"mp_m_gunrunning_01_3_20",
-		"mp_m_gunrunning_01_3_7",
-		"mp_m_january2016_3_5",
-		"mp_m_sum_3_7"
+		{
+			"dlc": "mp_m_0",
+			"drawable": 6
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 16
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 27
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 38
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 49
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 5
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 60
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 71
+		},
+		{
+			"dlcName": "mp_m_2023_02",
+			"drawable": 1
+		},
+		{
+			"dlcName": "mp_m_gunrunning_01",
+			"drawable": 20
+		},
+		{
+			"dlcName": "mp_m_gunrunning_01",
+			"drawable": 7
+		},
+		{
+			"dlcName": "mp_m_january2016",
+			"drawable": 5
+		},
+		{
+			"dlcName": "mp_m_sum",
+			"drawable": 7
+		}
 	],
 	"8": [
-		"Male_Heist_3_17",
-		"Male_Heist_3_28",
-		"Male_Heist_3_39",
-		"Male_Heist_3_50",
-		"Male_Heist_3_51",
-		"Male_Heist_3_6",
-		"Male_Heist_3_61",
-		"Male_Heist_3_72",
-		"mp_m_january2016_3_6",
-		"mp_m_sum_3_8"
+		{
+			"dlc": "mp_m_0",
+			"drawable": 8
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 17
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 28
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 39
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 50
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 51
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 6
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 61
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 72
+		},
+		{
+			"dlcName": "mp_m_january2016",
+			"drawable": 6
+		},
+		{
+			"dlcName": "mp_m_sum",
+			"drawable": 8
+		}
 	],
 	"11": [
-		"Male_Heist_3_18",
-		"Male_Heist_3_29",
-		"Male_Heist_3_40",
-		"Male_Heist_3_62",
-		"Male_Heist_3_7",
-		"Male_Heist_3_73",
-		"mp_m_gunrunning_01_3_22",
-		"mp_m_gunrunning_01_3_9",
-		"mp_m_january2016_3_7",
-		"mp_m_sum_3_9"
+		{
+			"dlc": "mp_m_0",
+			"drawable": 11
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 18
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 29
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 40
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 62
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 7
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 73
+		},
+		{
+			"dlcName": "mp_m_gunrunning_01",
+			"drawable": 22
+		},
+		{
+			"dlcName": "mp_m_gunrunning_01",
+			"drawable": 9
+		},
+		{
+			"dlcName": "mp_m_january2016",
+			"drawable": 7
+		},
+		{
+			"dlcName": "mp_m_sum",
+			"drawable": 9
+		}
 	],
 	"12": [
-		"Male_Heist_3_19",
-		"Male_Heist_3_30",
-		"Male_Heist_3_41",
-		"Male_Heist_3_52",
-		"Male_Heist_3_63",
-		"Male_Heist_3_64",
-		"Male_Heist_3_74",
-		"Male_Heist_3_8",
-		"mp_m_gunrunning_01_3_10",
-		"mp_m_gunrunning_01_3_23",
-		"mp_m_january2016_3_8",
-		"mp_m_sum_3_10",
-		"mp_m_sum_3_11"
+		{
+			"dlc": "mp_m_0",
+			"drawable": 12
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 19
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 30
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 41
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 52
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 63
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 64
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 74
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 8
+		},
+		{
+			"dlcName": "mp_m_gunrunning_01",
+			"drawable": 10
+		},
+		{
+			"dlcName": "mp_m_gunrunning_01",
+			"drawable": 23
+		},
+		{
+			"dlcName": "mp_m_january2016",
+			"drawable": 8
+		},
+		{
+			"dlcName": "mp_m_sum",
+			"drawable": 10
+		},
+		{
+			"dlcName": "mp_m_sum",
+			"drawable": 11
+		}
 	],
 	"14": [
-		"Male_Heist_3_20",
-		"Male_Heist_3_31",
-		"Male_Heist_3_42",
-		"Male_Heist_3_53",
-		"Male_Heist_3_75",
-		"Male_Heist_3_9",
-		"mp_m_gunrunning_01_3_11",
-		"mp_m_gunrunning_01_3_24",
-		"mp_m_heist4_3_0",
-		"mp_m_heist4_3_1",
-		"mp_m_heist4_3_10",
-		"mp_m_heist4_3_2",
-		"mp_m_heist4_3_3",
-		"mp_m_heist4_3_4",
-		"mp_m_heist4_3_5",
-		"mp_m_heist4_3_6",
-		"mp_m_heist4_3_7",
-		"mp_m_heist4_3_8",
-		"mp_m_heist4_3_9",
-		"mp_m_january2016_3_9"
+		{
+			"dlc": "mp_m_0",
+			"drawable": 14
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 20
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 31
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 42
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 53
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 75
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 9
+		},
+		{
+			"dlcName": "mp_m_gunrunning_01",
+			"drawable": 11
+		},
+		{
+			"dlcName": "mp_m_gunrunning_01",
+			"drawable": 24
+		},
+		{
+			"dlcName": "mp_m_heist4",
+			"drawable": 0
+		},
+		{
+			"dlcName": "mp_m_heist4",
+			"drawable": 1
+		},
+		{
+			"dlcName": "mp_m_heist4",
+			"drawable": 10
+		},
+		{
+			"dlcName": "mp_m_heist4",
+			"drawable": 2
+		},
+		{
+			"dlcName": "mp_m_heist4",
+			"drawable": 3
+		},
+		{
+			"dlcName": "mp_m_heist4",
+			"drawable": 4
+		},
+		{
+			"dlcName": "mp_m_heist4",
+			"drawable": 5
+		},
+		{
+			"dlcName": "mp_m_heist4",
+			"drawable": 6
+		},
+		{
+			"dlcName": "mp_m_heist4",
+			"drawable": 7
+		},
+		{
+			"dlcName": "mp_m_heist4",
+			"drawable": 8
+		},
+		{
+			"dlcName": "mp_m_heist4",
+			"drawable": 9
+		},
+		{
+			"dlcName": "mp_m_january2016",
+			"drawable": 9
+		}
 	],
 	"15": [
-		"Male_Heist_3_10",
-		"Male_Heist_3_21",
-		"Male_Heist_3_32",
-		"Male_Heist_3_43",
-		"Male_Heist_3_54",
-		"Male_Heist_3_65",
-		"Male_Heist_3_76",
-		"mp_m_bikerdlc_01_3_0",
-		"mp_m_bikerdlc_01_3_3",
-		"mp_m_bikerdlc_01_3_4",
-		"mp_m_bikerdlc_01_3_5",
-		"mp_m_bikerdlc_01_3_6",
-		"mp_m_bikerdlc_01_3_7",
-		"mp_m_bikerdlc_01_3_8",
-		"mp_m_bikerdlc_01_3_9",
-		"mp_m_gunrunning_01_3_0",
-		"mp_m_gunrunning_01_3_1",
-		"mp_m_gunrunning_01_3_12",
-		"mp_m_gunrunning_01_3_25",
-		"mp_m_january2016_3_10",
-		"mp_m_sum_3_1",
-		"mp_m_sum_3_12"
+		{
+			"dlc": "mp_m_0",
+			"drawable": 15
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 10
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 21
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 32
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 43
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 54
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 65
+		},
+		{
+			"dlcName": "Male_Heist",
+			"drawable": 76
+		},
+		{
+			"dlcName": "mp_m_bikerdlc_01",
+			"drawable": 0
+		},
+		{
+			"dlcName": "mp_m_bikerdlc_01",
+			"drawable": 3
+		},
+		{
+			"dlcName": "mp_m_bikerdlc_01",
+			"drawable": 4
+		},
+		{
+			"dlcName": "mp_m_bikerdlc_01",
+			"drawable": 5
+		},
+		{
+			"dlcName": "mp_m_bikerdlc_01",
+			"drawable": 6
+		},
+		{
+			"dlcName": "mp_m_bikerdlc_01",
+			"drawable": 7
+		},
+		{
+			"dlcName": "mp_m_bikerdlc_01",
+			"drawable": 8
+		},
+		{
+			"dlcName": "mp_m_bikerdlc_01",
+			"drawable": 9
+		},
+		{
+			"dlcName": "mp_m_gunrunning_01",
+			"drawable": 0
+		},
+		{
+			"dlcName": "mp_m_gunrunning_01",
+			"drawable": 1
+		},
+		{
+			"dlcName": "mp_m_gunrunning_01",
+			"drawable": 12
+		},
+		{
+			"dlcName": "mp_m_gunrunning_01",
+			"drawable": 25
+		},
+		{
+			"dlcName": "mp_m_january2016",
+			"drawable": 10
+		},
+		{
+			"dlcName": "mp_m_sum",
+			"drawable": 1
+		},
+		{
+			"dlcName": "mp_m_sum",
+			"drawable": 12
+		}
 	]
 }
