@@ -9,7 +9,7 @@ const maleData = JSON.parse(fs.readFileSync("male.json", "utf-8"));
 const newMaleData = {};
 const newFemaleData = {};
 
-for (let data of femaleData) {
+for (let data of maleData) {
   if (!newMaleData[data.category]) {
     newMaleData[data.category] = [];
   }
@@ -17,7 +17,7 @@ for (let data of femaleData) {
   newMaleData[data.category].push({ dlc: data.dlc, drawable: data.drawable });
 }
 
-for (let data of maleData) {
+for (let data of femaleData) {
   if (!newFemaleData[data.category]) {
     newFemaleData[data.category] = [];
   }
