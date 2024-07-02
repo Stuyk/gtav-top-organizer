@@ -72,6 +72,7 @@ const male = {
     { dlcName: "mp_m_0", drawable: 15 },
     ...processNames(glob.sync("./male/15/*.png")),
   ],
+  16: [...processNames(glob.sync("./male/16/*.png"))],
 };
 
 const female = {
@@ -127,6 +128,7 @@ const female = {
     { dlcName: "mp_m_0", drawable: 15 },
     ...processNames(glob.sync("./female/15/*.png")),
   ],
+  16: [...processNames(glob.sync("./male/16/*.png"))],
 };
 
 fs.writeFileSync("male.json", JSON.stringify(male, null, "\t"));
