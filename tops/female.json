@@ -540,11 +540,6 @@
 	{
 		"category": "none",
 		"dlc": "mp_f_2023_01",
-		"drawable": 15
-	},
-	{
-		"category": "none",
-		"dlc": "mp_f_2023_01",
 		"drawable": 21,
 		"torsos": [
 			11
@@ -565,11 +560,6 @@
 		"torsos": [
 			14
 		]
-	},
-	{
-		"category": "none",
-		"dlc": "mp_f_2023_01",
-		"drawable": 25
 	},
 	{
 		"category": "none",
@@ -598,11 +588,6 @@
 	{
 		"category": "none",
 		"dlc": "mp_f_2023_01",
-		"drawable": 36
-	},
-	{
-		"category": "none",
-		"dlc": "mp_f_2023_01",
 		"drawable": 37,
 		"torsos": [
 			11
@@ -623,16 +608,6 @@
 		"torsos": [
 			3
 		]
-	},
-	{
-		"category": "none",
-		"dlc": "mp_f_2023_01",
-		"drawable": 42
-	},
-	{
-		"category": "none",
-		"dlc": "mp_f_2023_01",
-		"drawable": 43
 	},
 	{
 		"category": "none",
@@ -659,11 +634,6 @@
 			6,
 			3
 		]
-	},
-	{
-		"category": "none",
-		"dlc": "mp_f_2023_01",
-		"drawable": 57
 	},
 	{
 		"category": "none",
@@ -849,11 +819,6 @@
 		"torsos": [
 			12
 		]
-	},
-	{
-		"category": "none",
-		"dlc": "mp_f_battle",
-		"drawable": 2
 	},
 	{
 		"category": "none",
@@ -2959,11 +2924,6 @@
 	},
 	{
 		"category": "open",
-		"dlc": "mp_f_2023_02",
-		"drawable": 4
-	},
-	{
-		"category": "open",
 		"dlc": "mp_f_airraces_01",
 		"drawable": 3,
 		"torsos": [
@@ -3462,11 +3422,6 @@
 			3,
 			7
 		]
-	},
-	{
-		"category": "partial",
-		"dlc": "mp_f_2023_01",
-		"drawable": 11
 	},
 	{
 		"category": "partial",

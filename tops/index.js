@@ -26,9 +26,13 @@ function convertPath(path) {
 
 const femaleTops = glob
   .sync("./female-tops/**/*.webp")
-  .map((x) => convertPath(x));
+  .map((x) => convertPath(x))
+  .filter((x) => x.torsos && x.torsos.length >= 1);
 
-const maleTops = glob.sync("./male-tops/**/*.webp").map((x) => convertPath(x));
+const maleTops = glob
+  .sync("./male-tops/**/*.webp")
+  .map((x) => convertPath(x))
+  .filter((x) => x.torsos && x.torsos.length >= 1);
 
 fs.writeFileSync("male.json", JSON.stringify(maleTops, null, "\t"));
 fs.writeFileSync("female.json", JSON.stringify(femaleTops, null, "\t"));
