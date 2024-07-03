@@ -4,7 +4,7 @@
 		"dlc": "Female_Apt01",
 		"drawable": 0,
 		"torsos": [
-			4
+			15
 		]
 	},
 	{
@@ -351,6 +351,14 @@
 		"drawable": 7,
 		"torsos": [
 			3
+		]
+	},
+	{
+		"category": "none",
+		"dlc": "Female_freemode_beach",
+		"drawable": 0,
+		"torsos": [
+			4
 		]
 	},
 	{
@@ -2868,14 +2876,6 @@
 			3,
 			7,
 			6
-		]
-	},
-	{
-		"category": "open",
-		"dlc": "Female_freemode_beach",
-		"drawable": 0,
-		"torsos": [
-			4
 		]
 	},
 	{
