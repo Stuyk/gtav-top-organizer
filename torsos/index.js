@@ -111,12 +111,12 @@ const female = {
     { dlc: "mp_f_0", drawable: 7 },
     ...processNames(glob.sync("./female/7/*.png")),
   ],
-  8: [{ dlc: "mp_m_0", drawable: 8 }],
+  8: [{ dlc: "mp_f_0", drawable: 8 }],
   9: [
     { dlc: "mp_f_0", drawable: 9 },
     ...processNames(glob.sync("./female/9/*.png")),
   ],
-  10: [{ dlc: "mp_m_0", drawable: 10 }],
+  10: [{ dlc: "mp_f_0", drawable: 10 }],
   11: [
     { dlc: "mp_f_0", drawable: 11 },
     ...processNames(glob.sync("./female/11/*.png")),
@@ -125,7 +125,7 @@ const female = {
     { dlc: "mp_f_0", drawable: 12 },
     ...processNames(glob.sync("./female/12/*.png")),
   ],
-  13: [{ dlc: "mp_m_0", drawable: 13 }],
+  13: [{ dlc: "mp_f_0", drawable: 13 }],
   14: [
     { dlc: "mp_f_0", drawable: 14 },
     ...processNames(glob.sync("./female/14/*.png")),
